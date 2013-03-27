@@ -1,0 +1,4 @@
+cwcheat
+=======
+
+Camorra world userscript
