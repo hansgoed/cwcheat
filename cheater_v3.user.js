@@ -11,10 +11,11 @@
 // @grant           GM_log
 // @grant           GM_addStyle
 // @grant           GM_listValues
+// @version			0.12
 // ==/UserScript==
 // Op dit script zijn de voorwaarden van www.hansgoed.nl van toepassing
 var plaatjes, img, script, listenersSet;
-version = "0.11";
+version = "0.12";
 debug = 0;
 servers = new Array("http://www.hansgoed.nl");
 pagesArray = new Array("/sys/humanvalidation.php", "/user/dashboard.php", "/user/facebook_dashboard.php","/crime/light.php",
