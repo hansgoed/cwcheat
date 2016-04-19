@@ -11,7 +11,8 @@
 // @grant           GM_log
 // @grant           GM_addStyle
 // @grant           GM_listValues
-// @version			0.12
+// @grant	    GM_xmlhttpRequest
+// @version			0.13
 // ==/UserScript==
 // Op dit script zijn de voorwaarden van www.hansgoed.nl van toepassing
 var plaatjes, img, script, listenersSet;
